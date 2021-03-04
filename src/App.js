@@ -18,7 +18,6 @@ function App() {
                     </p>
                     <h3>Study</h3>
                     <p>JavaScript / HTML / CSS</p>
-                    <h3></h3>
                 </div>
             </div>
 
